@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Lib de TS com tdd na prática",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alevieiramoreira/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Alessandra Moreira <alessandracvmoreira@gmail.com> (https://github.com/alevieiramoreira)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alevieiramoreira/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/alevieiramoreira/js-tdd-course#readme"
+}
