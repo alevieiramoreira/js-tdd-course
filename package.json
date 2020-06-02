@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/alevieiramoreira/js-tdd-course#readme",
   "devDependencies": {
-    "eslint": "^3.19.0",
+    "eslint": "^4.18.2",
     "eslint-config-airbnb-base": "^14.1.0",
     "eslint-plugin-import": "^1.16.0"
   },
